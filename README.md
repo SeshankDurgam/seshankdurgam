@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm Seshank Durgam  
 
-<!--
-**SeshankDurgam/seshankdurgam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & DevOps Engineer** | ☁️ **AWS | Azure | GCP** | 🛠 **Kubernetes | Terraform | Docker**  
 
-Here are some ideas to get you started:
+🔹 Passionate about **Cloud Automation, Infrastructure as Code (IaC), and DevOps Best Practices**  
+🔹 Automated **CI/CD pipelines**, reducing deployment time by **40%**  
+🔹 Optimized **cloud costs by 20%** through resource scaling & monitoring  
+🔹 Experienced with **Prometheus, Grafana, ELK Stack** for system reliability  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always learning & building scalable cloud solutions!  
+
+📫 **Reach me at:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](your-github-url)  
+[![Credly](https://img.shields.io/badge/Credentials-Credly-orange?style=flat)](your-credly-url)  
+
+🎓 **Education:**  
+- **Master’s in Computer Science**, *Stevens Institute of Technology, New Jersey (2024)*  
+- **Bachelor’s in Cloud Technology & Information Security**, *Jain University, India (2021)*  
+
+✨ **Let's connect and innovate!**  
