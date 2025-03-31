@@ -12,7 +12,7 @@
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](your-github-url)  
-[![Credly](https://img.shields.io/badge/Credentials-Credly-orange?style=flat)](your-credly-url)  
+[![Credly](https://www.credly.com/users/seshank-durgam)  
 
 🎓 **Education:**  
 - **Master’s in Computer Science**, *Stevens Institute of Technology, New Jersey (2024)*  
